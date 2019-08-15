@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aryels/Área de Trabalho/UFV/PAA/untitled2/main.c
+stdio.h
+-
+quadro.h
+/home/aryels/Área de Trabalho/UFV/PAA/untitled2/quadro.h
+stdlib.h
+-
+time.h
+-
+
+/home/aryels/Área de Trabalho/UFV/PAA/untitled2/quadro.h
+
